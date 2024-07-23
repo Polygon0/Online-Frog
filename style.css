@@ -1,0 +1,24 @@
+.frog {
+	
+	img.FrogImage {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	}
+	div {
+	padding: 10px;
+	background-image: url(https://i.pinimg.com/originals/87/a4/dd/87a4dd7e89de995793e1fabfcd55f986.gif);
+	color: white;
+	}
+	form{
+	padding: 50px 10px; 
+	text-align: center;
+	background-color: black;
+	}
+}
+
+body{
+
+	background-color : black;
+	color: #00ffc4;
+}
